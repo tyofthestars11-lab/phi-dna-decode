@@ -1,0 +1,30 @@
+{
+  "sample": "ENCSR534OAS_liver",
+  "reference": "T2T-CHM13v2.0 GCF_009914755.1",
+  "tp53_interval": {
+    "contig": "NC_060941.1",
+    "start_1based": 7572544,
+    "end_1based": 7591594
+  },
+  "min_mapq": 20,
+  "total_sam_records": 46488155,
+  "mapped_records": 43508729,
+  "primary_mapped_reads": 43508728,
+  "tp53_reads_mapq_ge_threshold": 510,
+  "tp53_unique_read_names_mapq_ge_threshold": 510,
+  "tp53_read_cpm": 11.721786028771055,
+  "mean_primary_mapq": 45.823799675320316,
+  "phi": 1.618033988749895,
+  "golden_angle_transition_degrees": 137.50776405003785,
+  "alpha_degrees": 32.78439509088443,
+  "input_amplitude_sqrt_read_cpm": 3.423709396074827,
+  "echo_state": {
+    "channel0_real": -2.524536756249897,
+    "channel1_real": 1.9443047831531408,
+    "channel1_imag": 1.252269581728361
+  },
+  "active_echo_amplitude": 2.312682467420529,
+  "active_echo_power": 5.3485001951143065,
+  "elapsed_seconds": 1239.3647236824036,
+  "interpretation": "Direct T2T read-level CPM proxy; not transcript TPM."
+}

@@ -1,0 +1,30 @@
+{
+  "sample": "ENCSR000CUT_monomuclear_blood_derived",
+  "reference": "T2T-CHM13v2.0 GCF_009914755.1",
+  "tp53_interval": {
+    "contig": "NC_060941.1",
+    "start_1based": 7572544,
+    "end_1based": 7591594
+  },
+  "min_mapq": 20,
+  "total_sam_records": 209066948,
+  "mapped_records": 177015559,
+  "primary_mapped_reads": 177015559,
+  "tp53_reads_mapq_ge_threshold": 1311,
+  "tp53_unique_read_names_mapq_ge_threshold": 1310,
+  "tp53_read_cpm": 7.406128633020332,
+  "mean_primary_mapq": 44.51677356790993,
+  "phi": 1.618033988749895,
+  "golden_angle_transition_degrees": 137.50776405003785,
+  "alpha_degrees": 32.78439509088443,
+  "input_amplitude_sqrt_read_cpm": 2.7214203337632963,
+  "echo_state": {
+    "channel0_real": -2.0066906582865682,
+    "channel1_real": 1.5454788826331072,
+    "channel1_imag": 0.9953975378213837
+  },
+  "active_echo_amplitude": 1.8382930220630633,
+  "active_echo_power": 3.3793212349657504,
+  "elapsed_seconds": 4061.5034742355347,
+  "interpretation": "Direct T2T read-level CPM proxy; not transcript TPM."
+}

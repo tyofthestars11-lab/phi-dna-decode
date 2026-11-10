@@ -1,0 +1,30 @@
+{
+  "sample": "ENCSR985WSV_cortex",
+  "reference": "T2T-CHM13v2.0 GCF_009914755.1",
+  "tp53_interval": {
+    "contig": "NC_060941.1",
+    "start_1based": 7572544,
+    "end_1based": 7591594
+  },
+  "min_mapq": 20,
+  "total_sam_records": 42075429,
+  "mapped_records": 39201424,
+  "primary_mapped_reads": 39201424,
+  "tp53_reads_mapq_ge_threshold": 105,
+  "tp53_unique_read_names_mapq_ge_threshold": 105,
+  "tp53_read_cpm": 2.6784741288989906,
+  "mean_primary_mapq": 50.574269546942986,
+  "phi": 1.618033988749895,
+  "golden_angle_transition_degrees": 137.50776405003785,
+  "alpha_degrees": 32.78439509088443,
+  "input_amplitude_sqrt_read_cpm": 1.6366044509590552,
+  "echo_state": {
+    "channel0_real": -1.206781187861663,
+    "channel1_real": 0.929418211071751,
+    "channel1_imag": 0.5986109608505095
+  },
+  "active_echo_amplitude": 1.1055104221680518,
+  "active_echo_power": 1.2221532935221842,
+  "elapsed_seconds": 816.4062898159027,
+  "interpretation": "Direct T2T read-level CPM proxy; not transcript TPM."
+}
